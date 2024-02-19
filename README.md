@@ -2,7 +2,7 @@
 
 Built an Expense Tracker using HTML, CSS, and JavaScript.
 
-# Key Features:#
+# Key Features:
 
 Expense Management: Users can seamlessly add, edit, and delete expenses, providing a user-friendly interface for tracking financial transactions.
 
